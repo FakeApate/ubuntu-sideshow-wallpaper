@@ -15,4 +15,4 @@ python3 ss-gen.py -t TRANSISTION -d DURATION FILES... > yourfile.xml
 gsettings set org.gnome.desktop.background picture-uri 'file:///path/to/file/yourfile.xml'
 ```
 ## More informations
-I found this method from an this [post](http://ubuntuhandbook.org/index.php/2020/09/desktop-wallpaper-slideshow-ubuntu-20-04/)
+I found this method from this [post](http://ubuntuhandbook.org/index.php/2020/09/desktop-wallpaper-slideshow-ubuntu-20-04/)
