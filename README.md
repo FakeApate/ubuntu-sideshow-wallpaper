@@ -8,7 +8,7 @@ The script works Pyhton2 and 3.
 ```bash
 git clone https://github.com/imbodensamuel/ubuntu-sideshow-wallpaper.git
 cd ubuntu-sideshow-wallpaper
-./ss-gen.py -t TRANSISTION -d DURATION FILES... > yourfile.xml
+python3 ss-gen.py -t TRANSISTION -d DURATION FILES... > yourfile.xml
 ```
 ### Applying XML
 ```bash
